@@ -1,0 +1,3 @@
+alartView
+ImagePicker 
+activityViewController 

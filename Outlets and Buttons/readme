@@ -1,0 +1,6 @@
+* counter project;
+    Goals:
+        1. Creating UI components with code (without storyboard) -> Like variables
+        2. Adding these components to the view. -> using viewName.view.addSubview(UI-component) 
+        3. Connecting buttons with actions. -> by adding target to the button
+        4. Outlets (outlet from code to GUI)
